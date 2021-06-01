@@ -1,0 +1,2 @@
+1. Copy html edits folder into phpword folder
+2. Copy protection_generator.php into phpword folder and overwrite existing
